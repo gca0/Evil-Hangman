@@ -1,3 +1,5 @@
+Author: Guanyi Cao
+
 Instead of a predetermined word, Evil Hangman seeks to cheat the user 
 by determining the word based on the user's guesses. This is done by
 partitioning the word list into "word families" based on each guess, 
