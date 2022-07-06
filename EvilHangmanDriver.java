@@ -1,3 +1,7 @@
+// Author: Guanyi Cao
+// Date: December 13, 2020
+// ---------------------------------------------------------------
+
 import java.util.ArrayList;
 
 // This is the main driver program that runs the Evil Hangman game.
