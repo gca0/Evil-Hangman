@@ -1,3 +1,7 @@
+// Author: Guanyi Cao
+// Date: December 13, 2020
+// ---------------------------------------------------------------
+
 import java.awt.Color;
 import java.awt.Font;
 import java.util.ArrayList;
